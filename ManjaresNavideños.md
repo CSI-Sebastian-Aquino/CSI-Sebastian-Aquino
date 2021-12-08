@@ -1,6 +1,12 @@
+<div align="center">
+
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tres-leches-cake-1597701550.jpg?crop=0.889xw:0.462xh;0.0717xw,0.234xh&resize=1200:*" width="520" height="374" />
+  
 # Manjares Navideños 
-<img src="https://www.allrecipes.com/recipe/7399/tres-leches-milk-cake/" width= "800" height= "374" />
-## Tres Leches 
+## Tres Leches
+
+</div>
+
 ### ingredientes 
 - 1 ½ cups all-purpose flour
 - 1 teaspoon baking powder
